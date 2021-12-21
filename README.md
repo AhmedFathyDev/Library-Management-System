@@ -1,3 +1,2 @@
 # Library-Management-System
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+OOP-Project built by Java, A simple project for the library management system.
