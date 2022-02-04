@@ -14,10 +14,6 @@ public class ReturnIssued implements Operation {
 
     private short ID;
 
-    private Search search;
-
-    private boolean exist = false;
-
     public ReturnIssued(short ID) {
         this.ID = ID;
     }
